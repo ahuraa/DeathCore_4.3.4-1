@@ -1,8 +1,11 @@
-# ![logo](http://i.imgur.com/Uj5R6Ra.png)
+## ![logo](http://i.imgur.com/Uj5R6Ra.png)
 
 
-## DeathCore 4.3.4 - New Source - Scripts
-=====================
+# DeathCore 4.3.4 - New Source - Scripts
+
+
+`DeathCore_4.3.4`:[![Build Status](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_4.3.4.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_4.3.4)
+
 
 #Informações Gerais do Projeto
 
@@ -19,8 +22,8 @@ Patch 4.3.4 - NDP-DB 4.3.4 (Alpha)
 
 Esta é a nova source da DeathCore estamos atualizando devagar, adicionando novos scripts e novidades, se você quiser nos ajudar neste projeto toda a ajuda será bem vinda! Atenciosamente, Equipe Noffearr Death ProjecT™.
 
-Links para fazer download:
 
+##Arquivos Necessários
 
 [dbc](https://mega.co.nz/#!ng0FxBJJ!Q62CZedaznny9bJBGZdp8bGr1Wcjf3xuDQguJRyOtdg)
 
@@ -30,16 +33,14 @@ Links para fazer download:
 
 [vmaps](https://mega.co.nz/#!CsllXIza!tzDbOJOFJ7S7HlpVbBftMYqzI-mYaY-2QwKKyqq7f8w)
 
-[Todas as Databases - Em Breve](#)
 
 
-
-# ![logo](http://i.imgur.com/Ues1gtC.png)
+## ![logo](http://i.imgur.com/Ues1gtC.png)
 
 
 ## Introdução
 
-Noffearr Death ProjecT™ é uma equipe de programadores sem lucros profissionais que fazem jogos de Framework MMORPG baseado principalmente em C ++. É completamente gratuito seus projetos. São inspirados nos projetos da TrinityCore com códigos abertos, os projetos sofrem grandes alterações ao longo do tempo para otimizar, melhorar e limpar a base dos códigos, ao mesmo tempo em que melhora a mecânica no jogo e funcionalidade. 
+Noffearr Death ProjecT™ é uma equipe de programadores sem lucros profissionais que fazem jogos de Framework MMORPG baseado principalmente em C ++. É completamente gratuito seus projetos. São inspirados nos projetos da deathcoreCore com códigos abertos, os projetos sofrem grandes alterações ao longo do tempo para otimizar, melhorar e limpar a base dos códigos, ao mesmo tempo em que melhora a mecânica no jogo e funcionalidade. 
 
 Essa Source é completamente gratuita o desenvolvimento da mesma depende de todos. Espero que a comunidade de bastante incentivo e nos ajude a melhora-la.
 
@@ -62,9 +63,9 @@ Para mais informações sobre o projeto, visite nosso website em projeto [Noffea
 ## Instalação
 
 Guias de instalação detalhadas estão disponíveis no wiki para 
-[Windows] (http://collab.kpsn.org/display/tc/Installation+Guide), 
-[Linux] (http://collab.kpsn.org/display/tc/Installation+Guide) e 
-[Mac OSX] (http://collab.kpsn.org/display/tc/Installation+Guide).
+[Windows] (#), 
+[Linux] (#) e 
+[Mac OSX] (#).
 
 ## Reportações
 
