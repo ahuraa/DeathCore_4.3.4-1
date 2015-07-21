@@ -7,7 +7,7 @@
 `DeathCore_4.3.4`:[![Build Status](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_4.3.4.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_4.3.4)
 
 
-#Informações Gerais do Projeto
+## Informações Gerais do Projeto
 
 Patch 4.3.4 - NDP-DB 4.3.4 (Alpha)
 
@@ -23,7 +23,7 @@ Patch 4.3.4 - NDP-DB 4.3.4 (Alpha)
 Esta é a nova source da DeathCore estamos atualizando devagar, adicionando novos scripts e novidades, se você quiser nos ajudar neste projeto toda a ajuda será bem vinda! Atenciosamente, Equipe Noffearr Death ProjecT™.
 
 
-##Arquivos Necessários
+## Arquivos Necessários
 
 [dbc](https://mega.co.nz/#!ng0FxBJJ!Q62CZedaznny9bJBGZdp8bGr1Wcjf3xuDQguJRyOtdg)
 
@@ -35,7 +35,7 @@ Esta é a nova source da DeathCore estamos atualizando devagar, adicionando novo
 
 
 
-## ![logo](http://i.imgur.com/Ues1gtC.png)
+##![logo](http://i.imgur.com/Ues1gtC.png)
 
 
 ## Introdução
